@@ -1,6 +1,6 @@
 # Financial Market Analyzer
 
-![Financial Trend Analysis](assets/trend_plot.png)
+![Financial Trend Analysis](output/assets/trend_plot.png)
 
 A professional, modular Python data-analysis pipeline for financial time-series data. The project ingests CSV data, computes moving averages, and produces high-quality visualizations. It demonstrates software engineering best practices: separation of concerns, reproducible environments, automated test coverage, and synthetic data generation for testing.
 
