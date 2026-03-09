@@ -11,9 +11,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Output Data (Generated files shouldn't be tracked)
-output/
-
 # IDE/Editor settings
 .vscode/
 .idea/
