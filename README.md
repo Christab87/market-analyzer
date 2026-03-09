@@ -123,19 +123,6 @@ python -m pip install -r requirements.txt
 
 All versions are pinned in `requirements.txt` for reproducibility.
 
-## Git and Repo Hygiene
-
-- `.gitignore` includes `venv/`, `output/`, `__pycache__/`, and editor settings.
-- Keep generated runtime artifacts out of Git. Use `assets/` to store curated images for documentation.
-
-Example `.gitignore` entries:
-```text
-venv/
-output/
-__pycache__/
-.DS_Store
-```
-
 ## License
 
 Include a license file in the repo root (e.g., `LICENSE` with MIT License) to clarify usage terms.
